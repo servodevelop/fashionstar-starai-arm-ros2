@@ -55,7 +55,7 @@ sudo pip install fashionstar-uart-sdk
 
 ```bash
 cd ~/
-git clone https://github.com/Welt-liu/star-arm-moveit2.git
+git clone https://github.com/servodevelop/fashionstar-starai-arm-ros2.git
 cd ~/star-arm-moveit2
 colcon build
 echo "source ~/star-arm-moveit2/install/setup.bash" >> ~/.bashrc
